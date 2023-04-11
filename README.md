@@ -1,5 +1,6 @@
 # Laboratorio-Circ-II
 ### Orientações
+Para fazer download dos arquivos, clicar em um arquivo .zip e depois em "View raw" ou "Download".
 
 ## Monitoria 10/04
 >[Esquemático](https://github.com/vtmrg/Laboratorio-Circ-II/blob/main/Esquematico_2.sch)
