@@ -1,5 +1,4 @@
 # Laboratorio-Circ-II
-# Laboratorio-Circ-II
 
 ## Monitoria 10/04
 >[Esquemático](vtmrg/Laboratorio-Circ-II/Esquematico_2.sch)
